@@ -1,0 +1,48 @@
+[ 2017-09-19T17:52:11+08:00 ] 127.0.0.1 /web/index.php/home/index/news_delete/id/10.html
+ERR: 1054:Unknown column 'score' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `news` ORDER BY score desc LIMIT 5  
+ERR: 1054:Unknown column 'score' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `news` ORDER BY score desc LIMIT 5  
+
+[ 2017-09-19T17:52:14+08:00 ] 127.0.0.1 /web/index.php/home/index/news_delete/id/10.html
+ERR: 1054:Unknown column 'score' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `news` ORDER BY score desc LIMIT 5  
+ERR: 1054:Unknown column 'score' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `news` ORDER BY score desc LIMIT 5  
+
+[ 2017-09-19T17:53:09+08:00 ] 127.0.0.1 /web/index.php/home/index/dhr.html
+ERR: 1054:Unknown column 'score' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `news` ORDER BY score desc LIMIT 5  
+ERR: 1054:Unknown column 'score' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `news` ORDER BY score desc LIMIT 5  
+
+[ 2017-09-19T17:53:09+08:00 ] 127.0.0.1 /web/index.php/home/index/dhr.html
+ERR: 1054:Unknown column 'score' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `news` ORDER BY score desc LIMIT 5  
+ERR: 1054:Unknown column 'score' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `news` ORDER BY score desc LIMIT 5  
+
+[ 2017-09-19T17:53:12+08:00 ] 127.0.0.1 /web/index.php/home/index/dhr.html
+ERR: 1054:Unknown column 'score' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `news` ORDER BY score desc LIMIT 5  
+ERR: 1054:Unknown column 'score' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `news` ORDER BY score desc LIMIT 5  
+
+[ 2017-09-19T17:53:30+08:00 ] 127.0.0.1 /web/index.php/home/index/dhr.html
+ERR: 1054:Unknown column 'score' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `news` ORDER BY score desc LIMIT 5  
+ERR: 1054:Unknown column 'score' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `news` ORDER BY score desc LIMIT 5  
+
+[ 2017-09-19T17:53:34+08:00 ] 127.0.0.1 /web/index.php/home/index/dhr.html
+ERR: 1054:Unknown column 'score' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `news` ORDER BY score desc LIMIT 5  
+ERR: 1054:Unknown column 'score' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `news` ORDER BY score desc LIMIT 5  
+
+[ 2017-09-19T17:53:34+08:00 ] 127.0.0.1 /web/index.php/home/index/dhr.html
+ERR: 1054:Unknown column 'score' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `news` ORDER BY score desc LIMIT 5  
+ERR: 1054:Unknown column 'score' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `news` ORDER BY score desc LIMIT 5  
+

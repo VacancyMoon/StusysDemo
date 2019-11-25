@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+</head>
+
+<body>
+
+<table align="center" border="1">
+<tr>
+<td>留言人</td>
+<td>留言内容</td>
+<td>留言时间</td>
+</tr>
+<volist name="data" id="rs">
+<tr>
+<td>{$rs['username']}</td>
+<td>{$rs['liuyan']}</td>
+<td><!--{$time|date='Y-m-d H:i:s',###}-->{$rs['time']|date="Y-m-d H:i:s",###}<!--{$time|date='Y-m-d H:i:s',###}--></td>
+</tr>
+</volist>
+</table>
+
+</body>
+</html>
